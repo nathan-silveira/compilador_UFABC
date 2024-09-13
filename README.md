@@ -1,5 +1,6 @@
 # Autor
 Nathan Silveira Alves 11201920933
+Video-explicação: https://youtu.be/aqLhE1Q-cB4
 
 # Gramática
 A descrição a seguir ilustra a gramática, sendo os termos em negrito palavras reservadas:
