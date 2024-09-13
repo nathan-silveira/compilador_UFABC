@@ -1,0 +1,37 @@
+programa meuPrograma
+	declare a, b: number;
+	declare x: text;
+	declare c: text;
+	inicio
+		leia(c);
+		escreva("Hello");
+		x = "Hello World";
+		leia(a);		
+		leia(b);
+		escreva(x);
+		se (a > 5) entao
+			escreva("maior que 5");
+			a = a + 1;
+		senao
+		    escreva("menor que 5");
+		fimse
+		a = a + 1;
+		enquanto(a < b) faca
+			escreva("a menor que b");
+			a = a + 1 / 2 * 4;
+		fimenquanto
+		a = 0;
+		faca 
+			a = a + 2;
+			escreva("esta funcionando o dowhile");
+			escreva("testando if aninhado ao dowhile");
+			se (b >= 0) entao 
+			   escreva("b positivo");
+			senao
+			   escreva("b negativo");
+			fimse
+		enquanto(a < b)
+	fim
+fimprog
+
+			
